@@ -1,0 +1,10 @@
+Ideas:
+
+* Scrolling at different parts of the screen makes the view scroll more (like in plan9)
+
+* Add a way to let the state propmpt the user. Should probably be implemented with a callback so something can be done
+with that information later.
+
+* Remove the need for a menu item to return true/false to keep the menu open or closed. Should always close the menu
+when selected in my eyes. Might revert later, or make a special (nonClosingMenuAction) or something. That's the proper
+OOP way to do this lol.
